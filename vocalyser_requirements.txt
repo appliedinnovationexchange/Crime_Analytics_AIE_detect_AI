@@ -1,0 +1,16 @@
+streamlit
+pydub
+numpy
+spacy
+groq
+torch
+librosa
+nltk
+SpeechRecognition
+pydub
+spacy
+groq
+transformers
+torch
+librosa
+nltk
